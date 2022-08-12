@@ -7,6 +7,13 @@ An alle linux user: euer port kommt uach noch
 MacOs user: keiner sspielt auf macOS!
 
 patchnotes:
-
 - bug fixes (gegner, hitboxen, menü)
 - perfomance
+
+
+roadmap zum fertigen spiel:
+- level auswahl:
+  - mehr level
+  - highscore für jedes level
+
+- boss fights

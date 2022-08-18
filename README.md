@@ -6,7 +6,7 @@ dowloaded euch die exe und pck file, beide müssen im gleichen ordner sein dann 
 
 An alle linux user: euer port kommt auch noch
 
-MacOs user: keiner sspielt auf macOS!
+MacOs user: keiner spielt auf macOS!
 
 patchnotes:
 - bug fixes (gegner, hitboxen, menü)
